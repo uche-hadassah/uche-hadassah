@@ -33,6 +33,7 @@
 ###
 
 <div align="left">
+  <a href="https://www.youtube.com/channel/UCi7_j71Qwh9MEf-UZzpZe1A" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <a href="mailto:uhadassah1@gmail.com " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
