@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="190" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"  />
+  <img height="190" src="[https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966](https://image.lexica.art/md2/3582f46e-569b-4710-8a3e-3d47946ed151)"  />
 </div>
 
 ###
