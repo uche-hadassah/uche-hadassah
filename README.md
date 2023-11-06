@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="190" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F923097254842446708%2F&psig=AOvVaw3Q_Si2pezMCTX5f0SduePt&ust=1697718631045000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjFhprN_4EDFQAAAAAdAAAAABAE"  />
+  <img height="190" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="left">My Tech Stack</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">My Tech Stack</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
